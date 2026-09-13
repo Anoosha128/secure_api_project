@@ -1,0 +1,300 @@
+2026-09-11 19:36:39,708 - INFO - Starting Secure API application
+2026-09-11 19:36:39,815 - INFO - WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5000
+2026-09-11 19:36:39,815 - INFO - Press CTRL+C to quit
+2026-09-11 19:36:39,817 - INFO -  * Restarting with stat
+2026-09-11 19:36:40,456 - INFO - Starting Secure API application
+2026-09-11 19:36:40,481 - WARNING -  * Debugger is active!
+2026-09-11 19:36:40,490 - INFO -  * Debugger PIN: 137-756-779
+2026-09-11 19:38:08,938 - INFO - Received request to /api/hello
+2026-09-11 19:38:08,939 - INFO - Request to /api/hello successful for name: Anoosha
+2026-09-11 19:38:08,939 - INFO - Request successfully validated and processed
+2026-09-11 19:38:08,941 - INFO - 127.0.0.1 - - [11/Sep/2026 19:38:08] "POST /api/hello HTTP/1.1" 200 -
+2026-09-11 19:38:23,366 - INFO - Home Page Accessed
+2026-09-11 19:38:23,367 - INFO - 127.0.0.1 - - [11/Sep/2026 19:38:23] "GET / HTTP/1.1" 200 -
+2026-09-11 19:39:10,257 - INFO - Received request to /api/hello
+2026-09-11 19:39:10,258 - WARNING - Name field is not a string
+2026-09-11 19:39:10,258 - INFO - 127.0.0.1 - - [11/Sep/2026 19:39:10] "POST /api/hello HTTP/1.1" 400 -
+2026-09-11 19:46:46,203 - INFO - Starting Secure API application
+2026-09-11 19:46:46,290 - INFO - WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5000
+2026-09-11 19:46:46,290 - INFO - Press CTRL+C to quit
+2026-09-11 19:46:46,293 - INFO -  * Restarting with stat
+2026-09-11 19:46:47,573 - INFO - Starting Secure API application
+2026-09-11 19:46:47,636 - WARNING -  * Debugger is active!
+2026-09-11 19:46:47,656 - INFO -  * Debugger PIN: 137-756-779
+2026-09-11 19:47:00,054 - INFO - POST request received on /api/hello
+2026-09-11 19:47:00,055 - INFO - Request successfully validated and processed
+2026-09-11 19:47:00,056 - INFO - 127.0.0.1 - - [11/Sep/2026 19:47:00] "POST /api/hello HTTP/1.1" 200 -
+2026-09-11 19:47:43,348 - INFO - Starting Secure API application
+2026-09-11 19:47:43,459 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-09-11 19:47:43,459 - INFO - [33mPress CTRL+C to quit[0m
+2026-09-11 19:47:43,565 - INFO -  * Restarting with watchdog (windowsapi)
+2026-09-11 19:47:44,722 - INFO - Starting Secure API application
+2026-09-11 19:47:44,765 - WARNING -  * Debugger is active!
+2026-09-11 19:47:44,779 - INFO -  * Debugger PIN: 259-919-125
+2026-09-11 19:47:49,729 - INFO - Home page accessed
+2026-09-11 19:47:49,738 - INFO - 127.0.0.1 - - [11/Sep/2026 19:47:49] "GET / HTTP/1.1" 200 -
+2026-09-11 19:48:31,299 - INFO - Starting Secure API application
+2026-09-11 19:48:31,377 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-09-11 19:48:31,377 - INFO - [33mPress CTRL+C to quit[0m
+2026-09-11 19:48:31,415 - INFO -  * Restarting with watchdog (windowsapi)
+2026-09-11 19:49:22,750 - INFO - Starting Secure API application
+2026-09-11 19:49:22,824 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-09-11 19:49:22,824 - INFO - [33mPress CTRL+C to quit[0m
+2026-09-11 19:49:22,857 - INFO -  * Restarting with watchdog (windowsapi)
+2026-09-11 19:49:24,872 - INFO - Starting Secure API application
+2026-09-11 19:49:24,917 - WARNING -  * Debugger is active!
+2026-09-11 19:49:24,928 - INFO -  * Debugger PIN: 259-919-125
+2026-09-11 19:50:38,201 - INFO - Starting Secure API application
+2026-09-11 19:50:38,247 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-09-11 19:50:38,247 - INFO - [33mPress CTRL+C to quit[0m
+2026-09-11 19:50:38,269 - INFO -  * Restarting with watchdog (windowsapi)
+2026-09-11 19:50:39,115 - INFO - Starting Secure API application
+2026-09-11 19:50:39,146 - WARNING -  * Debugger is active!
+2026-09-11 19:50:39,152 - INFO -  * Debugger PIN: 259-919-125
+2026-09-12 09:33:18,120 - INFO - Starting Secure API application
+2026-09-12 09:33:18,262 - INFO - WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5000
+2026-09-12 09:33:18,262 - INFO - Press CTRL+C to quit
+2026-09-12 09:33:18,266 - INFO -  * Restarting with stat
+2026-09-12 09:33:19,409 - INFO - Starting Secure API application
+2026-09-12 09:33:19,447 - WARNING -  * Debugger is active!
+2026-09-12 09:33:19,457 - INFO -  * Debugger PIN: 137-756-779
+2026-09-12 09:34:11,209 - INFO - Starting Secure API application
+2026-09-12 09:34:11,278 - INFO - WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5000
+2026-09-12 09:34:11,279 - INFO - Press CTRL+C to quit
+2026-09-12 09:34:11,282 - INFO -  * Restarting with stat
+2026-09-12 09:34:12,830 - INFO - Starting Secure API application
+2026-09-12 09:34:12,859 - WARNING -  * Debugger is active!
+2026-09-12 09:34:12,869 - INFO -  * Debugger PIN: 137-756-779
+2026-09-12 09:37:30,468 - INFO -  * Detected change in 'c:\\Users\\DELL\\Desktop\\secure_api_project\\safe_scraper.py', reloading
+2026-09-12 09:37:30,556 - INFO -  * Restarting with stat
+2026-09-12 09:37:31,212 - INFO - Starting Secure API application
+2026-09-12 09:37:31,239 - WARNING -  * Debugger is active!
+2026-09-12 09:37:31,247 - INFO -  * Debugger PIN: 137-756-779
+2026-09-12 09:37:51,031 - INFO -  * Detected change in 'c:\\Users\\DELL\\Desktop\\secure_api_project\\safe_scraper.py', reloading
+2026-09-12 09:37:51,116 - INFO -  * Restarting with stat
+2026-09-12 09:37:51,809 - INFO - Starting Secure API application
+2026-09-12 09:37:51,843 - WARNING -  * Debugger is active!
+2026-09-12 09:37:51,852 - INFO -  * Debugger PIN: 137-756-779
+2026-09-12 09:37:55,079 - INFO -  * Detected change in 'c:\\Users\\DELL\\Desktop\\secure_api_project\\safe_scraper.py', reloading
+2026-09-12 09:37:55,204 - INFO -  * Restarting with stat
+2026-09-12 09:37:56,147 - INFO - Starting Secure API application
+2026-09-12 09:37:56,184 - WARNING -  * Debugger is active!
+2026-09-12 09:37:56,196 - INFO -  * Debugger PIN: 137-756-779
+2026-09-12 09:37:57,341 - INFO -  * Detected change in 'c:\\Users\\DELL\\Desktop\\secure_api_project\\safe_scraper.py', reloading
+2026-09-12 09:37:57,465 - INFO -  * Restarting with stat
+2026-09-12 09:37:58,573 - INFO - Starting Secure API application
+2026-09-12 09:37:58,622 - WARNING -  * Debugger is active!
+2026-09-12 09:37:58,634 - INFO -  * Debugger PIN: 137-756-779
+2026-09-12 09:37:59,872 - INFO -  * Detected change in 'c:\\Users\\DELL\\Desktop\\secure_api_project\\safe_scraper.py', reloading
+2026-09-12 09:37:59,969 - INFO -  * Restarting with stat
+2026-09-12 09:38:00,886 - INFO - Starting Secure API application
+2026-09-12 09:38:00,919 - WARNING -  * Debugger is active!
+2026-09-12 09:38:00,927 - INFO -  * Debugger PIN: 137-756-779
+2026-09-12 09:38:04,107 - INFO -  * Detected change in 'c:\\Users\\DELL\\Desktop\\secure_api_project\\safe_scraper.py', reloading
+2026-09-12 09:38:04,192 - INFO -  * Restarting with stat
+2026-09-12 09:38:04,989 - INFO - Starting Secure API application
+2026-09-12 09:38:05,025 - WARNING -  * Debugger is active!
+2026-09-12 09:38:05,035 - INFO -  * Debugger PIN: 137-756-779
+2026-09-12 09:38:06,161 - INFO -  * Detected change in 'c:\\Users\\DELL\\Desktop\\secure_api_project\\safe_scraper.py', reloading
+2026-09-12 09:38:06,264 - INFO -  * Restarting with stat
+2026-09-12 09:38:07,135 - INFO - Starting Secure API application
+2026-09-12 09:38:07,179 - WARNING -  * Debugger is active!
+2026-09-12 09:38:07,190 - INFO -  * Debugger PIN: 137-756-779
+2026-09-12 09:38:09,386 - INFO -  * Detected change in 'c:\\Users\\DELL\\Desktop\\secure_api_project\\safe_scraper.py', reloading
+2026-09-12 09:38:09,465 - INFO -  * Restarting with stat
+2026-09-12 09:38:10,104 - INFO - Starting Secure API application
+2026-09-12 09:38:10,132 - WARNING -  * Debugger is active!
+2026-09-12 09:38:10,141 - INFO -  * Debugger PIN: 137-756-779
+2026-09-12 09:38:12,273 - INFO -  * Detected change in 'c:\\Users\\DELL\\Desktop\\secure_api_project\\safe_scraper.py', reloading
+2026-09-12 09:38:12,370 - INFO -  * Restarting with stat
+2026-09-12 09:38:13,182 - INFO - Starting Secure API application
+2026-09-12 09:38:13,219 - WARNING -  * Debugger is active!
+2026-09-12 09:38:13,227 - INFO -  * Debugger PIN: 137-756-779
+2026-09-12 09:38:15,375 - INFO -  * Detected change in 'c:\\Users\\DELL\\Desktop\\secure_api_project\\safe_scraper.py', reloading
+2026-09-12 09:38:15,471 - INFO -  * Restarting with stat
+2026-09-12 09:38:16,245 - INFO - Starting Secure API application
+2026-09-12 09:38:16,277 - WARNING -  * Debugger is active!
+2026-09-12 09:38:16,286 - INFO -  * Debugger PIN: 137-756-779
+2026-09-12 09:38:18,420 - INFO -  * Detected change in 'c:\\Users\\DELL\\Desktop\\secure_api_project\\safe_scraper.py', reloading
+2026-09-12 09:38:18,508 - INFO -  * Restarting with stat
+2026-09-12 09:38:19,244 - INFO - Starting Secure API application
+2026-09-12 09:38:19,277 - WARNING -  * Debugger is active!
+2026-09-12 09:38:19,288 - INFO -  * Debugger PIN: 137-756-779
+2026-09-12 09:38:20,413 - INFO -  * Detected change in 'c:\\Users\\DELL\\Desktop\\secure_api_project\\safe_scraper.py', reloading
+2026-09-12 09:38:20,506 - INFO -  * Restarting with stat
+2026-09-12 09:38:21,364 - INFO - Starting Secure API application
+2026-09-12 09:38:21,398 - WARNING -  * Debugger is active!
+2026-09-12 09:38:21,409 - INFO -  * Debugger PIN: 137-756-779
+2026-09-12 09:38:22,542 - INFO -  * Detected change in 'c:\\Users\\DELL\\Desktop\\secure_api_project\\safe_scraper.py', reloading
+2026-09-12 09:38:22,660 - INFO -  * Restarting with stat
+2026-09-12 09:38:23,693 - INFO - Starting Secure API application
+2026-09-12 09:38:23,730 - WARNING -  * Debugger is active!
+2026-09-12 09:38:23,741 - INFO -  * Debugger PIN: 137-756-779
+2026-09-12 09:38:24,856 - INFO -  * Detected change in 'c:\\Users\\DELL\\Desktop\\secure_api_project\\safe_scraper.py', reloading
+2026-09-12 09:38:24,938 - INFO -  * Restarting with stat
+2026-09-12 09:38:25,613 - INFO - Starting Secure API application
+2026-09-12 09:38:25,641 - WARNING -  * Debugger is active!
+2026-09-12 09:38:25,648 - INFO -  * Debugger PIN: 137-756-779
+2026-09-12 09:38:27,772 - INFO -  * Detected change in 'c:\\Users\\DELL\\Desktop\\secure_api_project\\safe_scraper.py', reloading
+2026-09-12 09:38:27,873 - INFO -  * Restarting with stat
+2026-09-12 09:38:28,625 - INFO - Starting Secure API application
+2026-09-12 09:38:28,663 - WARNING -  * Debugger is active!
+2026-09-12 09:38:28,671 - INFO -  * Debugger PIN: 137-756-779
+2026-09-12 09:38:32,859 - INFO -  * Detected change in 'c:\\Users\\DELL\\Desktop\\secure_api_project\\safe_scraper.py', reloading
+2026-09-12 09:38:33,039 - INFO -  * Restarting with stat
+2026-09-12 09:38:33,892 - INFO - Starting Secure API application
+2026-09-12 09:38:33,924 - WARNING -  * Debugger is active!
+2026-09-12 09:38:33,935 - INFO -  * Debugger PIN: 137-756-779
+2026-09-12 09:38:35,035 - INFO -  * Detected change in 'c:\\Users\\DELL\\Desktop\\secure_api_project\\safe_scraper.py', reloading
+2026-09-12 09:38:35,205 - INFO -  * Restarting with stat
+2026-09-12 09:38:35,941 - INFO - Starting Secure API application
+2026-09-12 09:38:35,978 - WARNING -  * Debugger is active!
+2026-09-12 09:38:35,987 - INFO -  * Debugger PIN: 137-756-779
+2026-09-12 09:38:39,150 - INFO -  * Detected change in 'c:\\Users\\DELL\\Desktop\\secure_api_project\\safe_scraper.py', reloading
+2026-09-12 09:38:39,239 - INFO -  * Restarting with stat
+2026-09-12 09:38:39,914 - INFO - Starting Secure API application
+2026-09-12 09:38:39,955 - WARNING -  * Debugger is active!
+2026-09-12 09:38:39,972 - INFO -  * Debugger PIN: 137-756-779
+2026-09-12 09:38:43,242 - INFO -  * Detected change in 'c:\\Users\\DELL\\Desktop\\secure_api_project\\safe_scraper.py', reloading
+2026-09-12 09:38:43,332 - INFO -  * Restarting with stat
+2026-09-12 09:38:44,073 - INFO - Starting Secure API application
+2026-09-12 09:38:44,101 - WARNING -  * Debugger is active!
+2026-09-12 09:38:44,109 - INFO -  * Debugger PIN: 137-756-779
+2026-09-12 09:38:45,198 - INFO -  * Detected change in 'c:\\Users\\DELL\\Desktop\\secure_api_project\\safe_scraper.py', reloading
+2026-09-12 09:38:45,288 - INFO -  * Restarting with stat
+2026-09-12 09:38:46,055 - INFO - Starting Secure API application
+2026-09-12 09:38:46,082 - WARNING -  * Debugger is active!
+2026-09-12 09:38:46,090 - INFO -  * Debugger PIN: 137-756-779
+2026-09-12 09:38:47,194 - INFO -  * Detected change in 'c:\\Users\\DELL\\Desktop\\secure_api_project\\safe_scraper.py', reloading
+2026-09-12 09:38:47,271 - INFO -  * Restarting with stat
+2026-09-12 09:38:48,043 - INFO - Starting Secure API application
+2026-09-12 09:38:48,079 - WARNING -  * Debugger is active!
+2026-09-12 09:38:48,088 - INFO -  * Debugger PIN: 137-756-779
+2026-09-12 09:38:57,515 - INFO -  * Detected change in 'c:\\Users\\DELL\\Desktop\\secure_api_project\\safe_scraper.py', reloading
+2026-09-12 09:38:57,624 - INFO -  * Restarting with stat
+2026-09-12 09:38:58,329 - INFO - Starting Secure API application
+2026-09-12 09:38:58,361 - WARNING -  * Debugger is active!
+2026-09-12 09:38:58,370 - INFO -  * Debugger PIN: 137-756-779
+2026-09-12 09:39:00,501 - INFO -  * Detected change in 'c:\\Users\\DELL\\Desktop\\secure_api_project\\safe_scraper.py', reloading
+2026-09-12 09:39:00,605 - INFO -  * Restarting with stat
+2026-09-12 09:39:01,317 - INFO - Starting Secure API application
+2026-09-12 09:39:01,347 - WARNING -  * Debugger is active!
+2026-09-12 09:39:01,357 - INFO -  * Debugger PIN: 137-756-779
+2026-09-12 09:39:03,477 - INFO -  * Detected change in 'c:\\Users\\DELL\\Desktop\\secure_api_project\\safe_scraper.py', reloading
+2026-09-12 09:39:03,576 - INFO -  * Restarting with stat
+2026-09-12 09:39:04,460 - INFO - Starting Secure API application
+2026-09-12 09:39:04,596 - WARNING -  * Debugger is active!
+2026-09-12 09:39:04,616 - INFO -  * Debugger PIN: 137-756-779
+2026-09-12 09:39:09,855 - INFO -  * Detected change in 'c:\\Users\\DELL\\Desktop\\secure_api_project\\safe_scraper.py', reloading
+2026-09-12 09:39:09,964 - INFO -  * Restarting with stat
+2026-09-12 09:39:10,922 - INFO - Starting Secure API application
+2026-09-12 09:39:10,955 - WARNING -  * Debugger is active!
+2026-09-12 09:39:10,964 - INFO -  * Debugger PIN: 137-756-779
+2026-09-12 09:39:16,174 - INFO -  * Detected change in 'c:\\Users\\DELL\\Desktop\\secure_api_project\\safe_scraper.py', reloading
+2026-09-12 09:39:16,256 - INFO -  * Restarting with stat
+2026-09-12 09:39:17,097 - INFO - Starting Secure API application
+2026-09-12 09:39:17,128 - WARNING -  * Debugger is active!
+2026-09-12 09:39:17,139 - INFO -  * Debugger PIN: 137-756-779
+2026-09-12 09:39:18,285 - INFO -  * Detected change in 'c:\\Users\\DELL\\Desktop\\secure_api_project\\safe_scraper.py', reloading
+2026-09-12 09:39:18,481 - INFO -  * Restarting with stat
+2026-09-12 09:39:19,626 - INFO - Starting Secure API application
+2026-09-12 09:39:19,696 - WARNING -  * Debugger is active!
+2026-09-12 09:39:19,713 - INFO -  * Debugger PIN: 137-756-779
+2026-09-12 09:39:23,984 - INFO -  * Detected change in 'c:\\Users\\DELL\\Desktop\\secure_api_project\\safe_scraper.py', reloading
+2026-09-12 09:39:24,069 - INFO -  * Restarting with stat
+2026-09-12 09:39:24,709 - INFO - Starting Secure API application
+2026-09-12 09:39:24,737 - WARNING -  * Debugger is active!
+2026-09-12 09:39:24,744 - INFO -  * Debugger PIN: 137-756-779
+2026-09-12 09:39:29,988 - INFO -  * Detected change in 'c:\\Users\\DELL\\Desktop\\secure_api_project\\safe_scraper.py', reloading
+2026-09-12 09:39:30,109 - INFO -  * Restarting with stat
+2026-09-12 09:39:31,048 - INFO - Starting Secure API application
+2026-09-12 09:39:31,095 - WARNING -  * Debugger is active!
+2026-09-12 09:39:31,106 - INFO -  * Debugger PIN: 137-756-779
+2026-09-12 09:39:33,294 - INFO -  * Detected change in 'c:\\Users\\DELL\\Desktop\\secure_api_project\\safe_scraper.py', reloading
+2026-09-12 09:39:33,404 - INFO -  * Restarting with stat
+2026-09-12 09:39:34,374 - INFO - Starting Secure API application
+2026-09-12 09:39:34,402 - WARNING -  * Debugger is active!
+2026-09-12 09:39:34,411 - INFO -  * Debugger PIN: 137-756-779
+2026-09-12 09:39:35,510 - INFO -  * Detected change in 'c:\\Users\\DELL\\Desktop\\secure_api_project\\safe_scraper.py', reloading
+2026-09-12 09:39:35,602 - INFO -  * Restarting with stat
+2026-09-12 09:39:36,387 - INFO - Starting Secure API application
+2026-09-12 09:39:36,415 - WARNING -  * Debugger is active!
+2026-09-12 09:39:36,425 - INFO -  * Debugger PIN: 137-756-779
+2026-09-12 09:39:37,533 - INFO -  * Detected change in 'c:\\Users\\DELL\\Desktop\\secure_api_project\\safe_scraper.py', reloading
+2026-09-12 09:39:37,755 - INFO -  * Restarting with stat
+2026-09-12 09:39:38,607 - INFO - Starting Secure API application
+2026-09-12 09:39:38,638 - WARNING -  * Debugger is active!
+2026-09-12 09:39:38,647 - INFO -  * Debugger PIN: 137-756-779
+2026-09-12 09:39:41,853 - INFO -  * Detected change in 'c:\\Users\\DELL\\Desktop\\secure_api_project\\safe_scraper.py', reloading
+2026-09-12 09:39:41,948 - INFO -  * Restarting with stat
+2026-09-12 09:39:42,927 - INFO - Starting Secure API application
+2026-09-12 09:39:42,964 - WARNING -  * Debugger is active!
+2026-09-12 09:39:42,971 - INFO -  * Debugger PIN: 137-756-779
+2026-09-12 09:39:44,076 - INFO -  * Detected change in 'c:\\Users\\DELL\\Desktop\\secure_api_project\\safe_scraper.py', reloading
+2026-09-12 09:39:44,223 - INFO -  * Restarting with stat
+2026-09-12 09:39:45,119 - INFO - Starting Secure API application
+2026-09-12 09:39:45,150 - WARNING -  * Debugger is active!
+2026-09-12 09:39:45,161 - INFO -  * Debugger PIN: 137-756-779
+2026-09-12 09:39:48,336 - INFO -  * Detected change in 'c:\\Users\\DELL\\Desktop\\secure_api_project\\safe_scraper.py', reloading
+2026-09-12 09:39:48,415 - INFO -  * Restarting with stat
+2026-09-12 09:39:49,438 - INFO - Starting Secure API application
+2026-09-12 09:39:49,482 - WARNING -  * Debugger is active!
+2026-09-12 09:39:49,493 - INFO -  * Debugger PIN: 137-756-779
+2026-09-12 09:39:50,629 - INFO -  * Detected change in 'c:\\Users\\DELL\\Desktop\\secure_api_project\\safe_scraper.py', reloading
+2026-09-12 09:39:50,731 - INFO -  * Restarting with stat
+2026-09-12 09:39:51,553 - INFO - Starting Secure API application
+2026-09-12 09:39:51,588 - WARNING -  * Debugger is active!
+2026-09-12 09:39:51,596 - INFO -  * Debugger PIN: 137-756-779
+2026-09-12 09:39:54,827 - INFO -  * Detected change in 'c:\\Users\\DELL\\Desktop\\secure_api_project\\safe_scraper.py', reloading
+2026-09-12 09:39:54,979 - INFO -  * Restarting with stat
+2026-09-12 09:39:56,555 - INFO - Starting Secure API application
+2026-09-12 09:39:56,625 - WARNING -  * Debugger is active!
+2026-09-12 09:39:56,640 - INFO -  * Debugger PIN: 137-756-779
+2026-09-12 09:39:58,897 - INFO -  * Detected change in 'c:\\Users\\DELL\\Desktop\\secure_api_project\\safe_scraper.py', reloading
+2026-09-12 09:39:59,081 - INFO -  * Restarting with stat
+2026-09-12 09:40:00,341 - INFO - Starting Secure API application
+2026-09-12 09:40:00,382 - WARNING -  * Debugger is active!
+2026-09-12 09:40:00,392 - INFO -  * Debugger PIN: 137-756-779
+2026-09-12 09:40:01,507 - INFO -  * Detected change in 'c:\\Users\\DELL\\Desktop\\secure_api_project\\safe_scraper.py', reloading
+2026-09-12 09:40:01,630 - INFO -  * Restarting with stat
+2026-09-12 09:40:02,674 - INFO - Starting Secure API application
+2026-09-12 09:40:02,724 - WARNING -  * Debugger is active!
+2026-09-12 09:40:02,733 - INFO -  * Debugger PIN: 137-756-779
+2026-09-12 09:40:06,959 - INFO -  * Detected change in 'c:\\Users\\DELL\\Desktop\\secure_api_project\\safe_scraper.py', reloading
+2026-09-12 09:40:07,057 - INFO -  * Restarting with stat
+2026-09-12 09:40:08,114 - INFO - Starting Secure API application
+2026-09-12 09:40:08,170 - WARNING -  * Debugger is active!
+2026-09-12 09:40:08,187 - INFO -  * Debugger PIN: 137-756-779
+2026-09-12 09:40:09,483 - INFO -  * Detected change in 'c:\\Users\\DELL\\Desktop\\secure_api_project\\safe_scraper.py', reloading
+2026-09-12 09:40:09,580 - INFO -  * Restarting with stat
+2026-09-12 09:40:10,746 - INFO - Starting Secure API application
+2026-09-12 09:40:10,791 - WARNING -  * Debugger is active!
+2026-09-12 09:40:10,803 - INFO -  * Debugger PIN: 137-756-779
+2026-09-12 09:40:12,985 - INFO -  * Detected change in 'c:\\Users\\DELL\\Desktop\\secure_api_project\\safe_scraper.py', reloading
+2026-09-12 09:40:13,071 - INFO -  * Restarting with stat
+2026-09-12 09:40:13,836 - INFO - Starting Secure API application
+2026-09-12 09:40:13,875 - WARNING -  * Debugger is active!
+2026-09-12 09:40:13,886 - INFO -  * Debugger PIN: 137-756-779
+2026-09-12 09:40:18,138 - INFO -  * Detected change in 'c:\\Users\\DELL\\Desktop\\secure_api_project\\safe_scraper.py', reloading
+2026-09-12 09:40:18,288 - INFO -  * Restarting with stat
+2026-09-12 09:40:19,341 - INFO - Starting Secure API application
+2026-09-12 09:40:19,395 - WARNING -  * Debugger is active!
+2026-09-12 09:40:19,406 - INFO -  * Debugger PIN: 137-756-779
+2026-09-12 09:40:22,681 - INFO -  * Detected change in 'c:\\Users\\DELL\\Desktop\\secure_api_project\\safe_scraper.py', reloading
+2026-09-12 09:40:22,781 - INFO -  * Restarting with stat
+2026-09-12 09:40:24,157 - INFO - Starting Secure API application
+2026-09-12 09:40:24,196 - WARNING -  * Debugger is active!
+2026-09-12 09:40:24,207 - INFO -  * Debugger PIN: 137-756-779
+2026-09-12 09:40:26,368 - INFO -  * Detected change in 'c:\\Users\\DELL\\Desktop\\secure_api_project\\safe_scraper.py', reloading
+2026-09-12 09:40:26,472 - INFO -  * Restarting with stat
+2026-09-12 09:40:27,565 - INFO - Starting Secure API application
+2026-09-12 09:40:27,605 - WARNING -  * Debugger is active!
+2026-09-12 09:40:27,614 - INFO -  * Debugger PIN: 137-756-779
